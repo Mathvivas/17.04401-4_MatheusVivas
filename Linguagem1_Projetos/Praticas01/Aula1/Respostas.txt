@@ -1,0 +1,17 @@
+1. C:\Program Files\Java\jdk1.8.0_162
+
+2. C:\Program Files\Java\jdk1.8.0_162\bin
+
+3. javac Nomeclass.java
+
+4. java Nomeclass
+
+5. As variáveis de ambiente no geral são usadas como forma de configurar algum aplicativo de maneira mais simples. 
+O Java busca essas informações no sistema operacional para obter algum dado específico, como um arquivo executável.
+O Java pode usar as seguintes variáveis de ambiente: JAVA_HOME, CLASSPATH, Path, JDK_HOME e JRE_HOME, JAVA_TOOL_OPTIONS, JDK_JAVA_OPTIONS, _JAVA_OPTIONS e JAVA_OPTS.
+
+6. Sim, mas apenas em seu próprio ambiente.
+
+7. setx NOME valor
+
+8. JAVA_HOME é onde o Java está instalado
